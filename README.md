@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+## Welcome to My GitHub Profile! 👋
 Hello and thank you for stopping by my GitHub profile. I'm proud to have achieved the Certified AWS Cloud Practitioner designation. Currently, I'm delving into the details of AWS services, backed by hands-on experience. My professional background includes software development and a successful stint as a skilled Salesforce administrator.
 
 ### My Projects and Skills 🍀
